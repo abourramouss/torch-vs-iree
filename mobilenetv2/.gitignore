@@ -1,0 +1,10 @@
+*.vmfb
+*.mlir
+*.onnx
+*.npy
+*.bin
+*.sqlite
+*.nsys-rep
+*.log
+__pycache__/
+mobilenet_onnx copy/

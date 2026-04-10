@@ -1,0 +1,13 @@
+*.vmfb
+*.mlir
+*.onnx
+*.npy
+*.bin
+*.sqlite
+*.nsys-rep
+*.ncu-rep
+*.log
+__pycache__/
+.vscode/
+mobilenet_onnx copy/
+gemm/01_cublas/cublasgemm
