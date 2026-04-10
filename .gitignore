@@ -9,5 +9,7 @@
 *.log
 __pycache__/
 .vscode/
+.venv/
 mobilenet_onnx copy/
 gemm/01_cublas/cublasgemm
+mi300x/gemm/01_rocblas/hipblasgemm

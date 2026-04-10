@@ -1,0 +1,6 @@
+input/
+*.mlir
+*.vmfb
+*.nsys-rep
+*.sqlite
+*.csv

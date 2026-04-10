@@ -1,0 +1,7 @@
+input/*.npy
+input/*.bin
+*.mlir
+*.vmfb
+*.nsys-rep
+*.sqlite
+*.csv
